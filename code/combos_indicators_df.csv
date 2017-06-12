@@ -1,0 +1,218 @@
+,indicator
+0,"health expenditure per capita, ppp"
+1,"school enrollment, secondary, male (% gross)"
+2,"malnutrition prevalence, weight for age, male (% of children under 5)"
+3,"age population, age 23, male, interpolated"
+4,net migration
+5,"age population, age 03, male, interpolated"
+6,"immunization, hepb3 (% of one-year-old children)"
+7,"age population, age 04, male, interpolated"
+8,prevalence of anemia among women of reproductive age (% of women ages 15-49)
+9,wanted fertility rate (births per woman)
+10,"age population, age 12, female, interpolated"
+11,"age population, age 02, female, interpolated"
+12,children (ages 0-14) newly infected with hiv
+13,pregnant women receiving prenatal care (%)
+14,"improved water source, rural (% of rural population with access)"
+15,incidence of hiv (% of uninfected population ages 15-49)
+16,prevalence of overweight (% of children under 5)
+17,sex ratio at birth (male births per female births)
+18,"smoking prevalence, males (% of adults)"
+19,"age population, age 0, male, interpolated"
+20,population growth (annual %)
+21,"age population, age 05, female, interpolated"
+22,"age population, age 06, male, interpolated"
+23,"age population, age 15, male, interpolated"
+24,demand for family planning satisfied by modern methods (% of married women with demand for family planning)
+25,prevalence of anemia among non-pregnant women (% of women ages 15-49)
+26,women's share of population ages 15+ living with hiv (%)
+27,use of insecticide-treated bed nets (% of under-5 population)
+28,urban population
+29,"immunization, dpt (% of children ages 12-23 months)"
+30,"age population, age 19, female, interpolated"
+31,"health expenditure, private (% of total health expenditure)"
+32,rural population
+33,"immunization, bcg (% of one-year-old children)"
+34,"community health workers (per 1,000 people)"
+35,"prevalence of severe wasting, weight for height (% of children under 5)"
+36,tuberculosis treatment success rate (% of new cases)
+37,"school enrollment, primary, male (% net)"
+38,"age at first marriage, female"
+39,"age dependency ratio, old"
+40,"age population, age 15, female, interpolated"
+41,aids estimated deaths (unaids estimates)
+42,prevalence of anemia among pregnant women (%)
+43,"nurses and midwives (per 1,000 people)"
+44,consumption of iodized salt (% of households)
+45,"health expenditure, public (% of total health expenditure)"
+46,rural population (% of total population)
+47,"age population, age 24, male, interpolated"
+48,"age population, age 14, male, interpolated"
+49,"fertility rate, total (births per woman)"
+50,prevalence of wasting (% of children under 5)
+51,"life expectancy at birth, female (years)"
+52,"public spending on education, total (% of gdp)"
+53,"gni per capita, atlas method (current us$)"
+54,"completeness of birth registration, urban (%)"
+55,ratio of school attendance of orphans to school attendance of non-orphans ages 10-14
+56,rural population growth (annual %)
+57,% of males ages 15-49 having comprehensive correct knowledge about hiv (2 prevent ways and reject 3 misconceptions)
+58,"literacy rate, adult male (% of males ages 15 and above)"
+59,% of females ages 15-49 having comprehensive correct knowledge about hiv (2 prevent ways and reject 3 misconceptions)
+60,exclusive breastfeeding (% of children under 6 months)
+61,"immunization, measles (% of children ages 12-23 months)"
+62,"age population, age 02, male, interpolated"
+63,"smoking prevalence, females (% of adults)"
+64,adults (ages 15+) and children (ages 0-14) newly infected with hiv
+65,share of women employed in the nonagricultural sector (% of total nonagricultural employment)
+66,"age population, age 22, male, interpolated"
+67,"immunization, pol3 (% of one-year-old children)"
+68,"health expenditure, public (% of government expenditure)"
+69,"age population, age 20, male, interpolated"
+70,"age population, age 21, female, interpolated"
+71,"age population, age 24, female, interpolated"
+72,out-of-pocket health expenditure (% of total expenditure on health)
+73,vitamin a supplementation coverage rate (% of children ages 6-59 months)
+74,"prevalence of overweight, female (% of female adults)"
+75,"contraceptive prevalence, modern methods (% of women ages 15-49)"
+76,"age population, age 11, female, interpolated"
+77,"life expectancy at birth, total (years)"
+78,"improved sanitation facilities, urban (% of urban population with access)"
+79,"prevalence of severe wasting, weight for height, male (% of children under 5)"
+80,"age population, age 17, male, interpolated"
+81,"number of surgical procedures (per 100,000 population)"
+82,"school enrollment, primary, female (% net)"
+83,poverty headcount ratio at national poverty line (% of population)
+84,"age population, age 13, male, interpolated"
+85,adults (ages 15+) living with hiv
+86,"age population, age 06, female, interpolated"
+87,"prevalence of tuberculosis (per 100,000 population)"
+88,external resources for health (% of total expenditure on health)
+89,urban population (% of total)
+90,"prevalence of overweight, male (% of children under 5)"
+91,completeness of birth registration (%)
+92,"malnutrition prevalence, height for age, male (% of children under 5)"
+93,prevalence of undernourishment (% of population)
+94,ari treatment (% of children under 5 taken to a health provider)
+95,births attended by skilled health staff (% of total)
+96,"unemployment, male (% of male labor force)"
+97,"age population, age 07, male, interpolated"
+98,diarrhea treatment (% of children under 5 receiving oral rehydration and continued feeding)
+99,"literacy rate, youth total (% of people ages 15-24)"
+100,"people practicing open defecation, rural (% of rural population)"
+101,risk of impoverishing expenditure for surgical care (% of people at risk)
+102,"malnutrition prevalence, height for age (% of children under 5)"
+103,"labor force, total"
+104,"age population, age 17, female, interpolated"
+105,"primary completion rate, male (% of relevant age group)"
+106,"age population, age 14, female, interpolated"
+107,"malnutrition prevalence, height for age, female (% of children under 5)"
+108,"population, female (% of total)"
+109,"prevalence of wasting, male (% of children under 5)"
+110,"age population, age 01, female, interpolated"
+111,"people practicing open defecation, urban (% of urban population)"
+112,"age population, age 18, male, interpolated"
+113,"age population, age 18, female, interpolated"
+114,"labor force, female (% of total labor force)"
+115,diabetes prevalence (% of population ages 20 to 79)
+116,"age population, age 22, female, interpolated"
+117,urban poverty headcount ratio at national poverty lines (% of urban population)
+118,"age population, age 07, female, interpolated"
+119,"prevalence of hiv, female (% ages 15-24)"
+120,"age population, age 21, male, interpolated"
+121,"literacy rate, adult total (% of people ages 15 and above)"
+122,"age population, age 19, male, interpolated"
+123,"prevalence of hiv, male (% ages 15-24)"
+124,"age at first marriage, male"
+125,"immunization, hib3 (% of children ages 12-23 months)"
+126,"prevalence of wasting, female (% of children under 5)"
+127,"malnutrition prevalence, weight for age (% of children under 5)"
+128,"prevalence of hiv, total (% of population ages 15-49)"
+129,newborns protected against tetanus (%)
+130,prevalence of syphilis (% of women attending antenatal care)
+131,"age population, age 23, female, interpolated"
+132,"age population, age 12, male, interpolated"
+133,"specialist surgical workforce (per 100,000 population)"
+134,"health expenditure, public (% of gdp)"
+135,female headed households (% of households with a female head)
+136,unmet need for contraception (% of married women ages 15-49)
+137,"condom use with non regular partner, % adults(15-49), female"
+138,"age dependency ratio, young"
+139,"age population, age 20, female, interpolated"
+140,prevalence of overweight (% of adults)
+141,"age population, age 09, male, interpolated"
+142,"comprehensive correct knowledge of hiv/aids, ages 15-24, male (2 prevent ways and reject 3 misconceptions)"
+143,diarrhea treatment (% of children under 5 who received ors packet)
+144,"prevalence of overweight, female (% of children under 5)"
+145,urban population growth (annual %)
+146,"improved sanitation facilities, rural (% of rural population with access)"
+147,"infant and young child feeding practices, all 3 iycf (% children ages 6-23 months)"
+148,number of weeks of maternity leave
+149,"adolescent fertility rate (births per 1,000 women ages 15-19)"
+150,"age population, age 10, female, interpolated"
+151,"health expenditure, total (current us$)"
+152,children with fever receiving antimalarial drugs (% of children under age 5 with fever)
+153,"age population, age 01, male, interpolated"
+154,"condom use with non regular partner, % adults(15-49), male"
+155,prevalence of anemia among children (% of children under 5)
+156,children (0-14) living with hiv
+157,"age population, age 25, male, interpolated"
+158,tuberculosis case detection rate (all forms)
+159,"age population, age 11, male, interpolated"
+160,"school enrollment, tertiary, female (% gross)"
+161,"prevalence of overweight, male (% of male adults)"
+162,"literacy rate, youth male (% of males ages 15-24)"
+163,"health expenditure, private (% of gdp)"
+164,"school enrollment, secondary, female (% gross)"
+165,"improved water source, urban (% of urban population with access)"
+166,"primary completion rate, female (% of relevant age group)"
+167,low-birthweight babies (% of births)
+168,risk of catastrophic expenditure for surgical care (% of people at risk)
+169,"age population, age 25, female, interpolated"
+170,"contraceptive prevalence, any methods (% of women ages 15-49)"
+171,rural poverty headcount ratio at national poverty lines (% of rural population)
+172,adults (ages 15+) newly infected with hiv
+173,antiretroviral therapy coverage (% of people living with hiv)
+174,"physicians (per 1,000 people)"
+175,"hospital beds (per 1,000 people)"
+176,"age population, age 05, male, interpolated"
+177,use of any antimalarial drug (% of pregnant women)
+178,"age population, age 0, female, interpolated"
+179,age dependency ratio (% of working-age population)
+180,"age population, age 03, female, interpolated"
+181,"age population, age 08, male, interpolated"
+182,"age population, age 04, female, interpolated"
+183,"incidence of tuberculosis (per 100,000 people)"
+184,number of people who are undernourished
+185,"use of intermittent preventive treatment of malaria, 2+ doses of sp/fansidar (% of pregnant women)"
+186,"age population, age 09, female, interpolated"
+187,postnatal care coverage (% mothers)
+188,"prevalence of severe wasting, weight for height, female (% of children under 5)"
+189,children orphaned by hiv/aids
+190,"life expectancy at birth, male (years)"
+191,teenage mothers (% of women ages 15-19 who have had children or are currently pregnant)
+192,people practicing open defecation (% of population)
+193,out-of-pocket health expenditure (% of private expenditure on health)
+194,adults (ages 15+) and children (0-14 years) living with hiv
+195,"literacy rate, adult female (% of females ages 15 and above)"
+196,"school enrollment, secondary, female (% net)"
+197,"malnutrition prevalence, weight for age, female (% of children under 5)"
+198,"unemployment, female (% of female labor force)"
+199,"age population, age 16, male, interpolated"
+200,demand for family planning satisfied by any methods (% of married women with demand for family planning)
+201,"school enrollment, primary, female (% gross)"
+202,"age population, age 16, female, interpolated"
+203,pregnant women receiving prenatal care of at least four visits (% of pregnant women)
+204,malaria cases reported
+205,"completeness of birth registration, rural (%)"
+206,"school enrollment, primary, male (% gross)"
+207,"age population, age 08, female, interpolated"
+208,"age population, age 10, male, interpolated"
+209,"age population, age 13, female, interpolated"
+210,"population, male (% of total)"
+211,antiretroviral therapy coverage for pmtct (% of pregnant women living with hiv)
+212,ratio of young literate females to males (% ages 15-24)
+213,maternal leave benefits (% of wages paid in covered period)
+214,"comprehensive correct knowledge of hiv/aids, ages 15-24, female (2 prevent ways and reject 3 misconceptions)"
+215,"birth rate, crude (per 1,000 people)"
+216,"school enrollment, secondary, male (% net)"

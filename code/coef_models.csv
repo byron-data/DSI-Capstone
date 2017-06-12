@@ -1,0 +1,240 @@
+variable,coef,combos,linear_reg
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-1.779876165867824,Fragile and conflict affected situations,-1.979895537685427
+"birth rate, crude (per 1,000 people)",-0.9223204260554209,Fragile and conflict affected situations,-0.6833792721453742
+"primary completion rate, female (% of relevant age group)",0.3484265622055874,Fragile and conflict affected situations,0.134033753624781
+"school enrollment, primary, female (% gross)",0.1968157557304835,Fragile and conflict affected situations,-0.020935442153245082
+"population, female (% of total)",-0.10434004038705542,Fragile and conflict affected situations,125593707014.93138
+"immunization, bcg (% of one-year-old children)",0.08454622075613763,Fragile and conflict affected situations,125593707015.08415
+"prevalence of hiv, total (% of population ages 15-49)",-0.06844111271182089,Fragile and conflict affected situations,-0.0624146413353947
+"school enrollment, primary, male (% gross)",0.055578477715480974,Fragile and conflict affected situations,0.2435328631615311
+"unemployment, male (% of male labor force)",-0.016607754414448568,Fragile and conflict affected situations,0.17870539533738605
+"people practicing open defecation, urban (% of urban population)",-0.01651685624206345,Fragile and conflict affected situations,0.165863037109375
+"unemployment, female (% of female labor force)",-0.0013295536790306755,Fragile and conflict affected situations,-0.0083465576171875
+"population, male (% of total)",1.7577351194188223e-12,Fragile and conflict affected situations,-0.0303497314453125
+rural population (% of total population),-1.524597152876472,Heavily indebted poor countries (HIPC),4.942811487544488
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-1.013994834116401,Heavily indebted poor countries (HIPC),-9.055191452090547
+"primary completion rate, female (% of relevant age group)",0.6673613604790948,Heavily indebted poor countries (HIPC),-0.0009036946456843914
+"population, female (% of total)",-0.47138160030023685,Heavily indebted poor countries (HIPC),-4.30676947929072
+"gni per capita, atlas method (current us$)",0.30827982924394576,Heavily indebted poor countries (HIPC),-2.716550262279199
+"prevalence of hiv, female (% ages 15-24)",-0.23829376114448883,Heavily indebted poor countries (HIPC),-0.7647656641499928
+"improved water source, urban (% of urban population with access)",0.0423958382564965,Heavily indebted poor countries (HIPC),0.2699467277643366
+"birth rate, crude (per 1,000 people)",-0.042322791817394054,Heavily indebted poor countries (HIPC),-0.8439231076762048
+"unemployment, male (% of male labor force)",-0.0388581086478858,Heavily indebted poor countries (HIPC),-1.2397830100137204
+rural population,0.03212430925741373,Heavily indebted poor countries (HIPC),-3.5957011937701706
+incidence of hiv (% of uninfected population ages 15-49),-0.03068987084060507,Heavily indebted poor countries (HIPC),1.4095134154830204
+"prevalence of hiv, male (% ages 15-24)",-0.03002075713103347,Heavily indebted poor countries (HIPC),1.353403352302239
+prevalence of anemia among children (% of children under 5),-0.027679653845121655,Heavily indebted poor countries (HIPC),-3.148271339251509
+"prevalence of hiv, total (% of population ages 15-49)",-0.025535738556827937,Heavily indebted poor countries (HIPC),0.0019623517215947572
+urban population (% of total),0.018218808900637505,Heavily indebted poor countries (HIPC),-3.860439888753202
+"labor force, female (% of total labor force)",0.009241989707360036,Heavily indebted poor countries (HIPC),-2.7940569763074175
+"school enrollment, secondary, male (% net)",0.0017586980880781747,Heavily indebted poor countries (HIPC),-4.150441087869124
+"school enrollment, secondary, female (% gross)",0.0007893676383768438,Heavily indebted poor countries (HIPC),1.5417355409363491
+number of people who are undernourished,-0.0007187657199759464,Heavily indebted poor countries (HIPC),-0.3851760399381212
+"unemployment, female (% of female labor force)",-0.000182380420072792,Heavily indebted poor countries (HIPC),0.46965611205578073
+population growth (annual %),7.557269501306518e-05,Heavily indebted poor countries (HIPC),2.7940569761160305
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-2.376875917213372,Least developed countries: UN classification,-0.14198401299620642
+rural population (% of total population),-1.1079472955400975,Least developed countries: UN classification,-0.10917111040031946
+"primary completion rate, female (% of relevant age group)",0.6524040998842966,Least developed countries: UN classification,-8.29020658266576
+"birth rate, crude (per 1,000 people)",-0.3077200868886085,Least developed countries: UN classification,5.22607344904028
+newborns protected against tetanus (%),-0.2831226000291368,Least developed countries: UN classification,-0.44359854817522826
+rural population growth (annual %),-0.2610870482347759,Least developed countries: UN classification,-0.09484393411666095
+"population, female (% of total)",-0.2240313943424416,Least developed countries: UN classification,35777463561.45666
+rural population,0.14265089788834365,Least developed countries: UN classification,35777463561.646095
+"age dependency ratio, old",0.13509959144588757,Least developed countries: UN classification,-0.0738565121404885
+urban population growth (annual %),0.10094386631434905,Least developed countries: UN classification,0.009328842163085938
+prevalence of undernourishment (% of population),-0.09678183128541942,Least developed countries: UN classification,0.22047901153564453
+"fertility rate, total (births per woman)",-0.07926279287393537,Least developed countries: UN classification,-1.4207439422607422
+number of people who are undernourished,-0.03450996482436142,Least developed countries: UN classification,-0.4886054992675781
+"population, male (% of total)",3.3765649966997848e-12,Least developed countries: UN classification,-0.02033233642578125
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-2.836074795905634,Arab World,-1.0329559003712065
+"birth rate, crude (per 1,000 people)",-0.4440701365075116,Arab World,-0.3910430967339955
+"population, female (% of total)",-0.4212090557146992,Arab World,-0.02106177233626577
+"school enrollment, primary, female (% gross)",0.24943796874243496,Arab World,-0.2655965823365536
+rural population (% of total population),-0.24574689437785838,Arab World,0.030550551881579735
+rural population,0.20168516167620426,Arab World,0.057518562906054393
+"school enrollment, secondary, male (% net)",0.15525724612575004,Arab World,-0.16941533045719004
+"prevalence of hiv, total (% of population ages 15-49)",-0.05424122260037309,Arab World,0.04966573338899716
+newborns protected against tetanus (%),0.05107494893024465,Arab World,-0.05831080238438022
+"prevalence of hiv, male (% ages 15-24)",-0.024322350538526973,Arab World,-0.47090079007232893
+number of people who are undernourished,-0.01476574898165722,Arab World,-1415364246156.3577
+"school enrollment, secondary, male (% gross)",0.014702229322629008,Arab World,0.7630719838893674
+"unemployment, male (% of male labor force)",-0.010408039057337986,Arab World,0.6093293326784324
+"improved sanitation facilities, urban (% of urban population with access)",-0.009588655384571425,Arab World,-0.5132244451940897
+"unemployment, female (% of female labor force)",-0.008862876037657697,Arab World,-0.026975380630318388
+"immunization, measles (% of children ages 12-23 months)",-0.008254554927328768,Arab World,-0.010036842100428045
+urban population (% of total),0.0012108176662002925,Arab World,-1415364246153.7314
+age dependency ratio (% of working-age population),-0.7298927260346119,Caribbean small states,0.8614670481052186
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-0.24789738477267897,Caribbean small states,-1.326074499569494
+rural population,0.19821138936825933,Caribbean small states,0.12931091522549049
+"age dependency ratio, old",0.124119300972155,Caribbean small states,0.08667329208624858
+"labor force, female (% of total labor force)",0.1131418118530931,Caribbean small states,-0.35323541908593914
+"population, female (% of total)",-0.09099703825695957,Caribbean small states,-0.134449954443293
+"school enrollment, primary, female (% net)",-0.07867512010337419,Caribbean small states,0.00776581559690559
+"prevalence of hiv, male (% ages 15-24)",-0.06204596630624267,Caribbean small states,-0.007765815596896597
+"people practicing open defecation, urban (% of urban population)",-0.060602179324948297,Caribbean small states,0.40417076649668127
+"prevalence of hiv, female (% ages 15-24)",-0.039499297933701646,Caribbean small states,-0.3689974947928626
+"unemployment, female (% of female labor force)",-0.01930059320622147,Caribbean small states,0.031097968972586237
+rural population growth (annual %),0.016677513152180568,Caribbean small states,0.8434726363999951
+"labor force, total",0.005442565894959004,Caribbean small states,-0.010198999348036808
+women's share of population ages 15+ living with hiv (%),-0.005043575055296034,Caribbean small states,-0.11098414463879928
+"school enrollment, primary, male (% net)",-0.00477273992577743,Caribbean small states,-0.0846209418177708
+"primary completion rate, female (% of relevant age group)",0.0005631904807242878,Caribbean small states,-0.025512568408219027
+"population, male (% of total)",2.1222517192967575e-14,Caribbean small states,-0.008031068798427188
+"gni per capita, atlas method (current us$)",1.0045866874717377,Central Europe and the Baltics,-1.1178400858324882
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-0.506479871580969,Central Europe and the Baltics,-78.99814002746365
+"age dependency ratio, old",0.38666710137143684,Central Europe and the Baltics,48.740927084879665
+"unemployment, male (% of male labor force)",0.22609584468244698,Central Europe and the Baltics,125.28824133568882
+population growth (annual %),-0.10924021162498564,Central Europe and the Baltics,1.9885368714223848
+rural population growth (annual %),0.1070648547743468,Central Europe and the Baltics,0.02617661000089902
+"school enrollment, secondary, male (% gross)",0.0817343097851608,Central Europe and the Baltics,-0.22253056421293416
+"improved sanitation facilities, urban (% of urban population with access)",0.08111399111656678,Central Europe and the Baltics,0.2281022393481159
+"age dependency ratio, young",-0.07958179283923895,Central Europe and the Baltics,-0.6123500266249933
+"immunization, pol3 (% of one-year-old children)",0.0736870098695284,Central Europe and the Baltics,0.17613651952936493
+"improved water source, urban (% of urban population with access)",0.06740178113992584,Central Europe and the Baltics,-0.5842908172552796
+"people practicing open defecation, urban (% of urban population)",-0.06412833925177766,Central Europe and the Baltics,-0.1915998639580856
+"immunization, dpt (% of children ages 12-23 months)",-0.061713430445029985,Central Europe and the Baltics,-1.046749718846371
+"immunization, bcg (% of one-year-old children)",-0.037166718842490794,Central Europe and the Baltics,0.36768438584373087
+age dependency ratio (% of working-age population),-0.03656896084990897,Central Europe and the Baltics,0.24807798389680613
+urban population growth (annual %),-0.031203306293907617,Central Europe and the Baltics,0.6417156480907096
+"labor force, female (% of total labor force)",0.017941179621797025,Central Europe and the Baltics,1.1890668727306632
+age dependency ratio (% of working-age population),-1.7511197298003855,East Asia & Pacific,-18.22725143236974
+"birth rate, crude (per 1,000 people)",-0.480580623335231,East Asia & Pacific,2.3014214481520394
+"fertility rate, total (births per woman)",-0.30543782210197107,East Asia & Pacific,18.323665905402848
+"age dependency ratio, young",-0.23393131408499185,East Asia & Pacific,-0.7464072955955553
+"age dependency ratio, old",0.20057753218991173,East Asia & Pacific,-0.08546794341922186
+"improved sanitation facilities, urban (% of urban population with access)",0.1480511224316757,East Asia & Pacific,0.24197724883356858
+"school enrollment, primary, female (% gross)",0.1283726431430968,East Asia & Pacific,-0.04216876694045703
+rural population growth (annual %),-0.06677656771725364,East Asia & Pacific,0.18000787013839709
+"gni per capita, atlas method (current us$)",0.030443269955306697,East Asia & Pacific,-0.014027719714548187
+number of people who are undernourished,-0.027370632040903255,East Asia & Pacific,0.058562320263392795
+"immunization, bcg (% of one-year-old children)",-0.0025202197286240905,East Asia & Pacific,0.21618268751283445
+"age dependency ratio, young",-1.0223462256669222,Euro area,-0.12920584464112658
+"age dependency ratio, old",0.602921031605779,Euro area,-0.38206708388381694
+"school enrollment, tertiary, female (% gross)",0.46598725016636733,Euro area,-0.7947068984302224
+rural population,-0.4225850113046493,Euro area,0.18899478840215433
+"improved water source, urban (% of urban population with access)",0.2903495543585894,Euro area,-0.089164527416353
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-0.224325059138771,Euro area,-0.0689390804139869
+prevalence of anemia among children (% of children under 5),0.06998898705270033,Euro area,0.06472185815660939
+"school enrollment, primary, female (% gross)",0.04024027872608778,Euro area,0.5072421630012924
+"hospital beds (per 1,000 people)",-0.032344325235843616,Euro area,0.20976450492784351
+"immunization, dpt (% of children ages 12-23 months)",-0.02997510332054949,Euro area,-0.008433926696444993
+"immunization, measles (% of children ages 12-23 months)",0.026056939692433955,Euro area,-0.01167062883315817
+"gni per capita, atlas method (current us$)",0.024081157820998598,Euro area,-0.03574840144927388
+"school enrollment, secondary, female (% net)",0.011495286822563284,Euro area,-0.1543361107181432
+"unemployment, male (% of male labor force)",0.009132446283208176,Euro area,1.8258048488033833
+"primary completion rate, male (% of relevant age group)",0.007757435647951854,Euro area,-0.009493631809813385
+age dependency ratio (% of working-age population),-0.5939476092492488,Europe & Central Asia,-0.83008971310021
+"gni per capita, atlas method (current us$)",0.5685647183276504,Europe & Central Asia,-1.1833224456948124
+"people practicing open defecation, urban (% of urban population)",-0.3128869087862636,Europe & Central Asia,0.6294554804573838
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-0.269519569502704,Europe & Central Asia,0.0008883881687027084
+"school enrollment, secondary, female (% gross)",0.2588058521943425,Europe & Central Asia,0.00396989226057598
+rural population growth (annual %),0.17415675110080514,Europe & Central Asia,0.12614508732627547
+"prevalence of tuberculosis (per 100,000 population)",-0.16847544346228233,Europe & Central Asia,-0.6253442753270808
+"immunization, pol3 (% of one-year-old children)",0.15126741609192662,Europe & Central Asia,-1.657266355949958
+"unemployment, male (% of male labor force)",0.14165009325852398,Europe & Central Asia,-0.5227316984496198
+"population, female (% of total)",-0.13295350269846218,Europe & Central Asia,0.15918897650129687
+"school enrollment, primary, female (% gross)",0.09044635888291995,Europe & Central Asia,0.045734327106010886
+"immunization, measles (% of children ages 12-23 months)",0.08417938307004308,Europe & Central Asia,0.31821427895081067
+"hospital beds (per 1,000 people)",-0.031272487460170556,Europe & Central Asia,-0.32951519748675967
+"unemployment, female (% of female labor force)",0.027942633475960363,Europe & Central Asia,0.16023931887033027
+urban population,0.002687168762643721,Europe & Central Asia,0.08870782218588813
+"school enrollment, tertiary, female (% gross)",0.0007309921261389906,Europe & Central Asia,-2.5409732865797574
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-0.8028832508795376,European Union,0.7222663102125204
+"age dependency ratio, old",0.5344687699981698,European Union,-23.94983186266181
+"age dependency ratio, young",-0.49261664823692447,European Union,24.724822554974253
+"school enrollment, tertiary, female (% gross)",0.4884822185499233,European Union,38.79605866606372
+"labor force, total",0.3886482837877,European Union,-0.03812543931199036
+prevalence of anemia among children (% of children under 5),0.1398811279452229,European Union,0.02819440146602481
+"school enrollment, primary, female (% gross)",0.10340194683855897,European Union,0.19279043973574844
+age dependency ratio (% of working-age population),-0.09886176992385454,European Union,0.09580084311972364
+"unemployment, male (% of male labor force)",0.07803580997720062,European Union,-0.11352995872804994
+"improved sanitation facilities, rural (% of rural population with access)",0.05388514023174552,European Union,0.15634435772498634
+"public spending on education, total (% of gdp)",0.04413284330813617,European Union,0.05647477226136033
+population growth (annual %),-0.03602350400679978,European Union,-0.6906764575002361
+"school enrollment, secondary, female (% net)",0.0281188490667911,European Union,0.2878285693839864
+urban population growth (annual %),-0.024139512131836217,European Union,-0.00840637254976273
+"hospital beds (per 1,000 people)",-0.020974045404283406,European Union,1.401554657702036
+"immunization, measles (% of children ages 12-23 months)",-0.0023667367576836558,European Union,0.11710282121753135
+rural population,-0.00033850640225775876,European Union,-0.11538570737941534
+age dependency ratio (% of working-age population),-3.0348653711171187,Latin America & Caribbean,-3.0294767926291555
+population growth (annual %),-0.5475054634858714,Latin America & Caribbean,-0.31680135450562147
+"primary completion rate, male (% of relevant age group)",0.12504082077357598,Latin America & Caribbean,0.02138130660014942
+"school enrollment, primary, male (% net)",0.07369837724205691,Latin America & Caribbean,-0.02138130660011984
+"population, female (% of total)",0.035878473023962784,Latin America & Caribbean,0.19915557294919983
+women's share of population ages 15+ living with hiv (%),-0.017274350552821522,Latin America & Caribbean,0.020844397548433778
+urban population growth (annual %),-0.014761415083546219,Latin America & Caribbean,0.03779340026682296
+"unemployment, female (% of female labor force)",0.014551285181613218,Latin America & Caribbean,-0.22783554145599744
+"population, male (% of total)",-1.4586965173459328e-14,Latin America & Caribbean,-0.0140094497814598
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-3.4567522777073396,Middle East & North Africa,-4.04599631814823
+"school enrollment, secondary, male (% gross)",0.7629681398649151,Middle East & North Africa,0.07750911847009075
+rural population,0.6849325828186394,Middle East & North Africa,-0.06773566399716532
+"population, female (% of total)",-0.30720696001857617,Middle East & North Africa,0.04181194655736352
+women's share of population ages 15+ living with hiv (%),0.16315120368918085,Middle East & North Africa,-0.43059657692278447
+prevalence of undernourishment (% of population),-0.06714264259883256,Middle East & North Africa,-0.0700587023261415
+"immunization, pol3 (% of one-year-old children)",0.06527914823141032,Middle East & North Africa,-0.07432633647716849
+"unemployment, male (% of male labor force)",-0.0452283891457882,Middle East & North Africa,0.04500804290116218
+"improved water source, urban (% of urban population with access)",-0.015760537229489884,Middle East & North Africa,0.7020940268774076
+newborns protected against tetanus (%),0.01416525002944065,Middle East & North Africa,-0.030734689049663935
+"prevalence of hiv, total (% of population ages 15-49)",-0.011815031766196754,Middle East & North Africa,0.11068754111769329
+"gni per capita, atlas method (current us$)",0.4408542296133505,North America,-0.060433678966049745
+rural population (% of total population),-0.41892747352157617,North America,-1.1905710727025074
+"school enrollment, tertiary, female (% gross)",0.30875528040096156,North America,2.089420210580104
+"age dependency ratio, young",-0.20543631535281917,North America,-0.0513652065106803
+age dependency ratio (% of working-age population),-0.18646892495366338,North America,-0.20233561498129227
+rural population growth (annual %),-0.1597582053520529,North America,0.9395124424234556
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-0.09802322744561026,North America,0.03007113329942268
+"improved water source, urban (% of urban population with access)",-0.07763134943090126,North America,-0.06478096042576026
+urban population,0.07451993799435377,North America,2.6725972253415677
+tuberculosis case detection rate (all forms),-0.04722060984833105,North America,-0.24100232910926367
+"school enrollment, secondary, male (% gross)",-0.045160485456492074,North America,-0.002630752642059031
+"school enrollment, primary, female (% gross)",0.03256343606799633,North America,-0.021235427555488906
+"public spending on education, total (% of gdp)",-0.0156985016689986,North America,0.316211549049241
+prevalence of anemia among children (% of children under 5),0.011584783731748165,North America,-0.11301741619238448
+"population, female (% of total)",-0.0001797401832743837,North America,5.566412455172627
+age dependency ratio (% of working-age population),-1.267505343899098,Pacific island small states,-0.4929311462887255
+rural population,0.8288803578685978,Pacific island small states,-11.355761593462127
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-0.41163315373450626,Pacific island small states,0.8689065736757089
+"fertility rate, total (births per woman)",-0.2784082791846598,Pacific island small states,9.945402380439297
+"immunization, dpt (% of children ages 12-23 months)",0.0787549739262468,Pacific island small states,0.2709356637640369
+"school enrollment, secondary, female (% gross)",0.07738453922720508,Pacific island small states,0.058674227006399654
+"school enrollment, primary, male (% gross)",-0.057585418015403414,Pacific island small states,0.0645651540577995
+"age dependency ratio, old",0.05606832300800853,Pacific island small states,0.06192308028224669
+"population, female (% of total)",0.055714893275454196,Pacific island small states,-0.05413822016427733
+newborns protected against tetanus (%),0.025925049923393877,Pacific island small states,0.07143197202810203
+number of people who are undernourished,0.011074063964566054,Pacific island small states,-0.03456028905162967
+people practicing open defecation (% of population),-0.0067298619579489,Pacific island small states,-0.016580208885962122
+urban population growth (annual %),0.003538724853200445,Pacific island small states,0.6069653901951182
+"improved sanitation facilities, rural (% of rural population with access)",0.00312362158700225,Pacific island small states,0.03548025767528595
+"primary completion rate, male (% of relevant age group)",-0.0014038737963361996,Pacific island small states,-0.04649341673218865
+"age dependency ratio, young",-0.0006053745429354282,Pacific island small states,0.12342381558395754
+rural population,2.1417609001873457,South Asia,3.6820275247536
+"fertility rate, total (births per woman)",-1.9925066538871141,South Asia,0.08526198397688758
+rural population (% of total population),-0.5793842497523755,South Asia,0.00903165579826358
+"population, female (% of total)",0.31829130246840764,South Asia,122039934.45717259
+tuberculosis case detection rate (all forms),-0.08409742697966362,South Asia,122039933.89240845
+newborns protected against tetanus (%),-0.029508317369581455,South Asia,7.5864764192529375
+urban population growth (annual %),-0.008625996060733322,South Asia,-1715325104550.3154
+urban population (% of total),0.006193838191349424,South Asia,-0.0766851143164134
+"immunization, measles (% of children ages 12-23 months)",0.0047364875048277,South Asia,-1715325104549.7021
+"population, male (% of total)",-2.7686064082956738e-12,South Asia,0.05677437205883235
+"population, female (% of total)",-0.7312736058936821,Sub-Saharan Africa,1.4033525134339784
+"adolescent fertility rate (births per 1,000 women ages 15-19)",-0.5884174033138685,Sub-Saharan Africa,-0.18105766501685616
+"school enrollment, secondary, female (% gross)",0.4936388936519271,Sub-Saharan Africa,3.5928791846646213
+"prevalence of tuberculosis (per 100,000 population)",-0.4575632383845167,Sub-Saharan Africa,1.4886327975444191
+"primary completion rate, female (% of relevant age group)",0.382495698204419,Sub-Saharan Africa,-0.028565357671126057
+population growth (annual %),0.26108856046475726,Sub-Saharan Africa,1.491988992512475
+"birth rate, crude (per 1,000 people)",-0.18139659125513738,Sub-Saharan Africa,0.15185325541266217
+rural population growth (annual %),-0.13455254376737769,Sub-Saharan Africa,-0.30549716040328984
+"incidence of tuberculosis (per 100,000 people)",-0.1097891374381334,Sub-Saharan Africa,-0.13144199033261783
+rural population (% of total population),-0.09801095533878422,Sub-Saharan Africa,0.13144199033246862
+"age dependency ratio, old",0.09604763962551711,Sub-Saharan Africa,0.9000859204365632
+"unemployment, female (% of female labor force)",-0.0730426252527789,Sub-Saharan Africa,-1.6468760277068983
+"gni per capita, atlas method (current us$)",0.07301063468992168,Sub-Saharan Africa,-0.692398246634873
+number of people who are undernourished,-0.031233696841242876,Sub-Saharan Africa,1.2514712627463531
+"prevalence of hiv, female (% ages 15-24)",-0.02883989157422232,Sub-Saharan Africa,-1.6225580971236908
+"unemployment, male (% of male labor force)",-0.022089457549579323,Sub-Saharan Africa,0.052851321758889735
+"prevalence of hiv, total (% of population ages 15-49)",-0.018316149873497573,Sub-Saharan Africa,-0.46159674047630794
+"school enrollment, secondary, male (% gross)",0.005439844787789546,Sub-Saharan Africa,4.462598698136398
+"immunization, measles (% of children ages 12-23 months)",0.001566749147224315,Sub-Saharan Africa,-0.4898731987373137
+"school enrollment, primary, female (% gross)",0.000850975245479038,Sub-Saharan Africa,-0.06294758451383586
+"population, male (% of total)",4.778570870470174e-14,Sub-Saharan Africa,0.382875480965742
